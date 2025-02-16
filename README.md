@@ -27,7 +27,7 @@
 
 ## 访问统计 👀
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ktovoz&label=访问次数&color=blueviolet&style=flat-square" alt="访问统计" />
+  <img src="https://moe-counter.glitch.me/get/@ktovoz?theme=rule34" alt="访问统计" />
 </div>
 
 ## 联系我 📫
