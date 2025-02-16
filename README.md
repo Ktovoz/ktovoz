@@ -70,9 +70,31 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
 </div>
 
+<!-- 贪吃蛇动画 - 样式1 -->
 <div align="center">
   <picture>
-    <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="贪吃蛇">
+    <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="贪吃蛇-样式1">
+  </picture>
+</div>
+
+<!-- 贪吃蛇动画 - 样式2 -->
+<div align="center">
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/L-zhicong/L-zhicong/assets/github-contribution-grid-snake.svg" alt="贪吃蛇-样式2">
+  </picture>
+</div>
+
+<!-- 贪吃蛇动画 - 样式3 -->
+<div align="center">
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-snake.svg" alt="贪吃蛇-样式3">
+  </picture>
+</div>
+
+<!-- 贪吃蛇动画 - 样式4 -->
+<div align="center">
+  <picture>
+    <img src="https://raw.githubusercontent.com/zyfx-wzk/zyfx-wzk/main/assets/github-contribution-grid-snake.svg" alt="贪吃蛇-样式4">
   </picture>
 </div>
 
