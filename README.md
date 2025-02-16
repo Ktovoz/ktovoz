@@ -71,6 +71,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="贪吃蛇"/>
+  <picture>
+    <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="贪吃蛇">
+  </picture>
 </div>
 
