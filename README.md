@@ -10,7 +10,7 @@
 - 研究测试自动化框架 🔭 | 学习新测试技术 🌱 | 分享测试经验 💡
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ktovoz&show_icons=true&theme=radical" alt="GitHub统计" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktovoz&layout=compact&theme=radical" alt="使用最多的语言" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ktovoz&show_icons=true&theme=swift" alt="GitHub统计" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktovoz&layout=compact&theme=swift" alt="使用最多的语言" />
 </div>
 
