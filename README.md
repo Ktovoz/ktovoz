@@ -12,11 +12,21 @@
 <!-- About Me -->
 ## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f66e1d6-6d9d-11ee-849b-42010a020006.png" width="24" alt="about"/> About Me
 
+**Based in Guangzhou**
+
 7 years in software testing, with 5 years specializing in banking industry
 
 Dedicated to building practical testing tools, comprehensive testing platforms, and efficient testing frameworks
 
 Continuously exploring new technologies and leveraging AI tools to enhance testing efficiency
+
+**坐标广州**
+
+7年软件测试经验，其中5年深耕银行业测试领域
+
+致力于打造实用测试工具，构建全面测试平台与高效测试框架
+
+持续探索新技术，积极运用AI工具提升测试效能
 
 
 ## Featured Projects
