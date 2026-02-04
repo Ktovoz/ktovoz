@@ -3,7 +3,7 @@
 <!-- Header -->
 # <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f66bd3f-6d9d-11ee-9cbd-42010a020006.png" width="40" alt="wave"/> 你好，我是 ktovoz
 
-**测试开发工程师 | 质量保障 | 自动化测试专家**
+**Joe Shen | 测试开发工程师 | 自动化测试工程师**
 
 [![个人网站](https://img.shields.io/badge/🌐_Website-ktovoz.com-F75C7E?style=for-the-badge&logo=firefox&logoColor=white)](https://ktovoz.com)
 [![技术博客](https://img.shields.io/badge/📝_Blog-ktovoz.com-4ADE80?style=for-the-badge&logo=hashnode&logoColor=white)](https://ktovoz.com)
@@ -12,10 +12,7 @@
 <!-- About Me -->
 ## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f66e1d6-6d9d-11ee-849b-42010a020006.png" width="24" alt="about"/> 关于我
 
-- 🔭 专注于测试自动化框架设计与开发
-- 🌱 持续学习前沿测试技术与最佳实践
-- 💡 致力于通过自动化提升产品质量与交付效率
-- 🎯 追求高质量的代码与可维护的测试架构
+
 
 <!-- Tech Stack -->
 ## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f6731c8-6d9d-11ee-8ddc-42010a020006.png" width="24" alt="tech"/> 技术栈
@@ -24,7 +21,7 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
 
-![DrissionPage](https://img.shields.io/badge/DrissionPage-4CAF50?style=flat-square) ![AutoJS](https://img.shields.io/badge/AutoJS-FF9800?style=flat-square) ![UiAutomator](https://img.shields.io/badge/UiAutomator-3DDC84?style=flat-square&logo=android) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron) ![niceGUI](https://img.shields.io/badge/niceGUI-3776AB?style=flat-square)
+![DrissionPage](https://img.shields.io/badge/DrissionPage-4CAF50?style=flat-square) ![AutoJS](https://img.shields.io/badge/AutoJS-FF9800?style=flat-square) ![UiAutomator](https://img.shields.io/badge/UiAutomator-3DDC84?style=flat-square&logo=android) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron) ![Wails](https://img.shields.io/badge/Wails-000000?style=flat-square&logo=wails&logoColor=white) ![niceGUI](https://img.shields.io/badge/niceGUI-3776AB?style=flat-square)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -35,7 +32,7 @@
 [![design-pattern-python](https://img.shields.io/badge/design--pattern-3⭐-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/design-pattern-python)
 [![Stego](https://img.shields.io/badge/Stego-隐写-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://github.com/Ktovoz/Stego)
 [![Image_stitching](https://img.shields.io/badge/Image_stitching-拼接-4CAF50?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/Image_stitching)
-[![docker-push-Ali](https://img.shields.io/badge/docker--push-Ali-1🍴-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Ktovoz/docker-push-Ali)
+[![docker-push-Ali](https://img.shields.io/badge/docker_push_Ali-1🍴-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Ktovoz/docker-push-Ali)
 
 <!-- Stats -->
 ## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f6779ae-6d9d-11ee-949e-42010a020006.png" width="24" alt="stats"/> GitHub 统计
