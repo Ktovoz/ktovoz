@@ -12,12 +12,21 @@
 <!-- About Me -->
 ## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f66e1d6-6d9d-11ee-849b-42010a020006.png" width="24" alt="about"/> 关于我
 
-7年测试经验 5年 银行业测试经验
-致力于打造实用的测试工具
-构建全面的测试平台以及搭建提高测试效率的测试框架
-喜欢探索新技术 热衷于AI工具的使用
+7年测试经验，其中5年深耕银行业测试领域
+
+致力于打造实用测试工具，构建全面测试平台与高效测试框架
+
+持续探索新技术，积极运用AI工具提升测试效能
 
 
+## 精选项目
+
+[![cursorRegister](https://img.shields.io/badge/cursorRegister-67⭐_19🍴-FF6B6B?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/cursorRegister)
+[![fastapi-blog-tutorial](https://img.shields.io/badge/fastapi--blog-7⭐_1🍴-009688?style=flat-square&logo=fastapi)](https://github.com/Ktovoz/fastapi-blog-tutorial)
+[![design-pattern-python](https://img.shields.io/badge/design--pattern-3⭐-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/design-pattern-python)
+[![Stego](https://img.shields.io/badge/Stego-隐写-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://github.com/Ktovoz/Stego)
+[![Image_stitching](https://img.shields.io/badge/Image_stitching-拼接-4CAF50?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/Image_stitching)
+[![docker-push-Ali](https://img.shields.io/badge/docker_push_Ali-1🍴-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Ktovoz/docker-push-Ali)
 
 <!-- Tech Stack -->
 ## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f6731c8-6d9d-11ee-8ddc-42010a020006.png" width="24" alt="tech"/> 技术栈
@@ -29,8 +38,6 @@
 ![DrissionPage](https://img.shields.io/badge/DrissionPage-4CAF50?style=flat-square) ![AutoJS](https://img.shields.io/badge/AutoJS-FF9800?style=flat-square) ![UiAutomator](https://img.shields.io/badge/UiAutomator-3DDC84?style=flat-square&logo=android) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron) ![Wails](https://img.shields.io/badge/Wails-000000?style=flat-square&logo=wails&logoColor=white) ![niceGUI](https://img.shields.io/badge/niceGUI-3776AB?style=flat-square)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 精选项目
 
 [![cursorRegister](https://img.shields.io/badge/cursorRegister-67⭐_19🍴-FF6B6B?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/cursorRegister)
 [![fastapi-blog-tutorial](https://img.shields.io/badge/fastapi--blog-7⭐_1🍴-009688?style=flat-square&logo=fastapi)](https://github.com/Ktovoz/fastapi-blog-tutorial)
