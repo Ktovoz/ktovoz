@@ -1,35 +1,35 @@
 <div align="center">
 
 <!-- Header -->
-# <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f66bd3f-6d9d-11ee-9cbd-42010a020006.png" width="40" alt="wave"/> 你好，我是 ktovoz
+# <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f66bd3f-6d9d-11ee-9cbd-42010a020006.png" width="40" alt="wave"/> Hi, I'm ktovoz
 
-**Joe Shen | 测试开发工程师 | 自动化测试工程师**
+**Joe Shen | Software Development Engineer in Test | Automation Test Engineer**
 
-[![个人网站](https://img.shields.io/badge/🌐_Website-ktovoz.com-F75C7E?style=for-the-badge&logo=firefox&logoColor=white)](https://ktovoz.com)
-[![技术博客](https://img.shields.io/badge/📝_Blog-ktovoz.com-4ADE80?style=for-the-badge&logo=hashnode&logoColor=white)](https://ktovoz.com)
-![Profile Views](https://komarev.com/ghpvc/?username=ktovoz&style=for-the-badge&color=F75C7E&label=👁_访客)
+[![Website](https://img.shields.io/badge/🌐_Website-ktovoz.com-F75C7E?style=for-the-badge&logo=firefox&logoColor=white)](https://ktovoz.com)
+[![Blog](https://img.shields.io/badge/📝_Blog-ktovoz.com-4ADE80?style=for-the-badge&logo=hashnode&logoColor=white)](https://ktovoz.com)
+![Profile Views](https://komarev.com/ghpvc/?username=ktovoz&style=for-the-badge&color=F75C7E&label=👁_Visitors)
 
 <!-- About Me -->
-## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f66e1d6-6d9d-11ee-849b-42010a020006.png" width="24" alt="about"/> 关于我
+## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f66e1d6-6d9d-11ee-849b-42010a020006.png" width="24" alt="about"/> About Me
 
-7年测试经验，其中5年深耕银行业测试领域
+7 years in software testing, with 5 years specializing in banking industry
 
-致力于打造实用测试工具，构建全面测试平台与高效测试框架
+Dedicated to building practical testing tools, comprehensive testing platforms, and efficient testing frameworks
 
-持续探索新技术，积极运用AI工具提升测试效能
+Continuously exploring new technologies and leveraging AI tools to enhance testing efficiency
 
 
-## 精选项目
+## Featured Projects
 
 [![cursorRegister](https://img.shields.io/badge/cursorRegister-67⭐_19🍴-FF6B6B?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/cursorRegister)
 [![fastapi-blog-tutorial](https://img.shields.io/badge/fastapi--blog-7⭐_1🍴-009688?style=flat-square&logo=fastapi)](https://github.com/Ktovoz/fastapi-blog-tutorial)
 [![design-pattern-python](https://img.shields.io/badge/design--pattern-3⭐-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/design-pattern-python)
-[![Stego](https://img.shields.io/badge/Stego-隐写-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://github.com/Ktovoz/Stego)
-[![Image_stitching](https://img.shields.io/badge/Image_stitching-拼接-4CAF50?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/Image_stitching)
+[![Stego](https://img.shields.io/badge/Stego-Steganography-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://github.com/Ktovoz/Stego)
+[![Image_stitching](https://img.shields.io/badge/Image_stitching-Stitching-4CAF50?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/Image_stitching)
 [![docker-push-Ali](https://img.shields.io/badge/docker_push_Ali-1🍴-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Ktovoz/docker-push-Ali)
 
 <!-- Tech Stack -->
-## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f6731c8-6d9d-11ee-8ddc-42010a020006.png" width="24" alt="tech"/> 技术栈
+## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f6731c8-6d9d-11ee-8ddc-42010a020006.png" width="24" alt="tech"/> Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
@@ -39,37 +39,30 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-[![cursorRegister](https://img.shields.io/badge/cursorRegister-67⭐_19🍴-FF6B6B?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/cursorRegister)
-[![fastapi-blog-tutorial](https://img.shields.io/badge/fastapi--blog-7⭐_1🍴-009688?style=flat-square&logo=fastapi)](https://github.com/Ktovoz/fastapi-blog-tutorial)
-[![design-pattern-python](https://img.shields.io/badge/design--pattern-3⭐-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/design-pattern-python)
-[![Stego](https://img.shields.io/badge/Stego-隐写-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://github.com/Ktovoz/Stego)
-[![Image_stitching](https://img.shields.io/badge/Image_stitching-拼接-4CAF50?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/Image_stitching)
-[![docker-push-Ali](https://img.shields.io/badge/docker_push_Ali-1🍴-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Ktovoz/docker-push-Ali)
-
 <!-- Stats -->
-## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f6779ae-6d9d-11ee-949e-42010a020006.png" width="24" alt="stats"/> GitHub 统计
+## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f6779ae-6d9d-11ee-949e-42010a020006.png" width="24" alt="stats"/> GitHub Stats
 
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ktovoz&show_icons=true&theme=swift&hide_border=true&rank_icon=github&card_width=320" alt="GitHub统计" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktovoz&layout=donut&theme=swift&hide_border=true&card_width=320" alt="语言统计" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ktovoz&show_icons=true&theme=swift&hide_border=true&rank_icon=github&card_width=320" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktovoz&layout=donut&theme=swift&hide_border=true&card_width=320" alt="Top Languages" />
 </div>
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktovoz&theme=swift&hide_border=true" alt="连续贡献" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktovoz&theme=swift&hide_border=true" alt="Contribution Streak" />
 </div>
 
 <!-- Trophy -->
-## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f67a9f9-6d9d-11ee-9b9f-42010a020006.png" width="24" alt="trophy"/> 成就
+## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f67a9f9-6d9d-11ee-9b9f-42010a020006.png" width="24" alt="trophy"/> Achievements
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=ktovoz&theme=swift&no-frame=true&margin-w=8&row=2&column=4" alt="成就徽章" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ktovoz&theme=swift&no-frame=true&margin-w=8&row=2&column=4" alt="Achievement Badges" />
 </div>
 
 <!-- Activity Graph -->
-## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f67dce5-6d9d-11ee-9619-42010a020006.png" width="24" alt="graph"/> 贡献活动
+## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f67dce5-6d9d-11ee-9619-42010a020006.png" width="24" alt="graph"/> Contributions
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktovoz&theme=swift&hide_border=true&area=true" alt="贡献活动图" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktovoz&theme=swift&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <!-- Footer -->
@@ -77,7 +70,7 @@
 
 <div align="center">
   <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f682ce6-6d9d-11ee-8136-42010a020006.png" width="20" alt="heart"/>
-  感谢访问我的 GitHub 主页
+  Thanks for visiting my GitHub profile
   <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f682ce6-6d9d-11ee-8136-42010a020006.png" width="20" alt="heart"/>
 </div>
 
