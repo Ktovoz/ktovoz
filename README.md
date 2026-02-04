@@ -53,19 +53,8 @@ Continuously exploring new technologies and leveraging AI tools to enhance testi
 ## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f6779ae-6d9d-11ee-949e-42010a020006.png" width="24" alt="stats"/> GitHub Stats
 
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ktovoz&show_icons=true&theme=swift&hide_border=true&rank_icon=github&card_width=320" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktovoz&layout=donut&theme=swift&hide_border=true&card_width=320" alt="Top Languages" />
-</div>
-
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktovoz&theme=swift&hide_border=true" alt="Contribution Streak" />
-</div>
-
-<!-- Trophy -->
-## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f67a9f9-6d9d-11ee-9b9f-42010a020006.png" width="24" alt="trophy"/> Achievements
-
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=ktovoz&theme=swift&no-frame=true&margin-w=8&row=2&column=4" alt="Achievement Badges" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ktovoz&theme=swift&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktovoz&layout=donut&theme=swift&hide_border=true" alt="Top Languages" />
 </div>
 
 <!-- Activity Graph -->
