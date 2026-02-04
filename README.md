@@ -53,8 +53,8 @@ Continuously exploring new technologies and leveraging AI tools to enhance testi
 ## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f6779ae-6d9d-11ee-949e-42010a020006.png" width="24" alt="stats"/> GitHub Stats
 
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ktovoz&theme=swift&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktovoz&layout=donut&theme=swift&hide_border=true" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ktovoz&show_icons=true&theme=swift" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktovoz&layout=compact&theme=swift" alt="Top Languages" />
 </div>
 
 <!-- Activity Graph -->
