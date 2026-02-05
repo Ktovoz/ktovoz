@@ -1,6 +1,6 @@
 # Hi, I'm ktovoz
 
-**Joe Shen | SDET | Automation Test Engineer**
+**Joe Shen | Automation Test Engineer**
 
 [![Website](https://img.shields.io/badge/Website-ktovoz.com-F75C7E?style=for-the-badge&logo=firefox&logoColor=white)](https://ktovoz.com)
 [![Blog](https://img.shields.io/badge/Blog-ktovoz.com-4ADE80?style=for-the-badge&logo=hashnode&logoColor=white)](https://ktovoz.com)
