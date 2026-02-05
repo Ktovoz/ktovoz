@@ -8,25 +8,11 @@
 [![Website](https://img.shields.io/badge/Website-ktovoz.com-F75C7E?style=for-the-badge&logo=firefox&logoColor=white)](https://ktovoz.com)
 [![Blog](https://img.shields.io/badge/Blog-ktovoz.com-4ADE80?style=for-the-badge&logo=hashnode&logoColor=white)](https://ktovoz.com)
 
-<!-- About Me -->
-## About Me
-
 **Based in Guangzhou**
 
-7 years in software testing, with 5 years specializing in banking industry
+求知若渴，虚心若愚
 
-Dedicated to building practical testing tools, comprehensive testing platforms, and efficient testing frameworks
-
-Continuously exploring new technologies and leveraging AI tools to enhance testing efficiency
-
-**坐标广州**
-
-7年软件测试经验，其中5年深耕银行业测试领域
-
-致力于打造实用测试工具，构建全面测试平台与高效测试框架
-
-持续探索新技术，积极运用AI工具提升测试效能
-
+*Stay Hungry, Stay Foolish* — Steve Jobs
 
 ## Featured Projects
 
