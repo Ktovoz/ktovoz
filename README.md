@@ -57,10 +57,9 @@ Continuously exploring new technologies and leveraging AI tools to enhance testi
 </div>
 
 <!-- Activity Graph -->
-## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f67dce5-6d9d-11ee-9619-42010a020006.png" width="24" alt="graph"/> Contributions
 
 <div>
-  <img src="https://github-readme-activity-graph-gray-ten-29.vercel.app/graph?username=ktovoz&theme=swift&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktovoz&theme=swift&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <!-- Footer -->
