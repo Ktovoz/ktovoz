@@ -1,16 +1,15 @@
 <div align="center">
 
 <!-- Header -->
-# <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f66bd3f-6d9d-11ee-9cbd-42010a020006.png" width="40" alt="wave"/> Hi, I'm ktovoz
+# Hi, I'm ktovoz
 
 **Joe Shen | Software Development Engineer in Test | Automation Test Engineer**
 
-[![Website](https://img.shields.io/badge/🌐_Website-ktovoz.com-F75C7E?style=for-the-badge&logo=firefox&logoColor=white)](https://ktovoz.com)
-[![Blog](https://img.shields.io/badge/📝_Blog-ktovoz.com-4ADE80?style=for-the-badge&logo=hashnode&logoColor=white)](https://ktovoz.com)
-![Profile Views](https://komarev.com/ghpvc/?username=ktovoz&style=for-the-badge&color=F75C7E&label=👁_Visitors)
+[![Website](https://img.shields.io/badge/Website-ktovoz.com-F75C7E?style=for-the-badge&logo=firefox&logoColor=white)](https://ktovoz.com)
+[![Blog](https://img.shields.io/badge/Blog-ktovoz.com-4ADE80?style=for-the-badge&logo=hashnode&logoColor=white)](https://ktovoz.com)
 
 <!-- About Me -->
-## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f66e1d6-6d9d-11ee-849b-42010a020006.png" width="24" alt="about"/> About Me
+## About Me
 
 **Based in Guangzhou**
 
@@ -31,15 +30,15 @@ Continuously exploring new technologies and leveraging AI tools to enhance testi
 
 ## Featured Projects
 
-[![cursorRegister](https://img.shields.io/badge/cursorRegister-67⭐_19🍴-FF6B6B?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/cursorRegister)
-[![fastapi-blog-tutorial](https://img.shields.io/badge/fastapi--blog-7⭐_1🍴-009688?style=flat-square&logo=fastapi)](https://github.com/Ktovoz/fastapi-blog-tutorial)
-[![design-pattern-python](https://img.shields.io/badge/design--pattern-3⭐-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/design-pattern-python)
+[![cursorRegister](https://img.shields.io/badge/cursorRegister-67%20%E2%98%85_19%20%E2%86%82-FF6B6B?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/cursorRegister)
+[![fastapi-blog-tutorial](https://img.shields.io/badge/fastapi--blog-7%20%E2%98%85_1%20%E2%86%82-009688?style=flat-square&logo=fastapi)](https://github.com/Ktovoz/fastapi-blog-tutorial)
+[![design-pattern-python](https://img.shields.io/badge/design--pattern-3%20%E2%98%85-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/design-pattern-python)
 [![Stego](https://img.shields.io/badge/Stego-Steganography-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://github.com/Ktovoz/Stego)
 [![Image_stitching](https://img.shields.io/badge/Image_stitching-Stitching-4CAF50?style=flat-square&logo=python&logoColor=white)](https://github.com/Ktovoz/Image_stitching)
-[![docker-push-Ali](https://img.shields.io/badge/docker_push_Ali-1🍴-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Ktovoz/docker-push-Ali)
+[![docker-push-Ali](https://img.shields.io/badge/docker_push_Ali-1%20%E2%86%82-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Ktovoz/docker-push-Ali)
 
 <!-- Tech Stack -->
-## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f6731c8-6d9d-11ee-8ddc-42010a020006.png" width="24" alt="tech"/> Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
@@ -50,7 +49,7 @@ Continuously exploring new technologies and leveraging AI tools to enhance testi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <!-- Stats -->
-## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f6779ae-6d9d-11ee-949e-42010a020006.png" width="24" alt="stats"/> GitHub Stats
+## GitHub Stats
 
 <div>
   <img height="150" src="https://github-readme-stats-gray-ten-29.vercel.app/api?username=ktovoz&show_icons=true&theme=swift" alt="GitHub Stats" />
@@ -58,7 +57,7 @@ Continuously exploring new technologies and leveraging AI tools to enhance testi
 </div>
 
 <!-- Activity Graph -->
-## <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f67dce5-6d9d-11ee-9619-42010a020006.png" width="24" alt="graph"/> Contributions
+## Contributions
 
 <div>
   <img src="https://github-readme-activity-graph-gray-ten-29.vercel.app/graph?username=ktovoz&theme=swift&hide_border=true&area=true" alt="Contribution Graph" />
@@ -68,9 +67,7 @@ Continuously exploring new technologies and leveraging AI tools to enhance testi
 ---
 
 <div align="center">
-  <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f682ce6-6d9d-11ee-8136-42010a020006.png" width="20" alt="heart"/>
   Thanks for visiting my GitHub profile
-  <img src="https://media.gemoji.co/c/t/0000/00/4f/00/4f682ce6-6d9d-11ee-8136-42010a020006.png" width="20" alt="heart"/>
 </div>
 
 </div>
